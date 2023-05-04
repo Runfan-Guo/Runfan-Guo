@@ -26,7 +26,7 @@ I am interested in
 <br/>  
 
 
-## Rapidfire  
+<!-- ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/luisrui/AIexperiment)  
@@ -48,7 +48,7 @@ I am interested in
 </td></tr></table>  
 
 <br/>  
-
+ -->
 
 ## Languages and Tools  
 <div align="center">  
