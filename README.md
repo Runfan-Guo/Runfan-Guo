@@ -54,6 +54,7 @@ I am interested in
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler-download.html" target="_blank"><img style="margin: 10px" src="https://www.bing.com/images/search?view=detailV2&ccid=Z5EH%2fDBb&id=452C65DA2BF51E48FCF7B277136202EBD2CBCA73&thid=OIP.Z5EH_DBbJMDqWj1B2AWPMQHaHa&mediaurl=https%3a%2f%2fwww.intel.com%2fcontent%2fdam%2fdevelop%2fexternal%2fus%2fen%2fimages%2fvtune-logo-oneapi-2021.png&exph=1024&expw=1024&q=vtune+profiler+icon&simid=608025708670972742&FORM=IRPRST&ck=9942EEF246A2BEF6DAED950EF2A6DF79&selectedIndex=0&ajaxhist=0&ajaxserp=0" height="50" /></a> 
 <a href="https://www.openmp.org/" target="_blank"><img style="margin: 10px" src="https://www.openmp.org/wp-content/uploads/openmp-header-logo-100h.png" alt="C++" height="40" /></a> 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
