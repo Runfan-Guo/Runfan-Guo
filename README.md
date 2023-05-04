@@ -12,7 +12,7 @@
 
 
 ### Hello There!  
-I’m a undergraduate Majoring in AI in Xi'an Jiaotong University. 
+I’m a undergraduate student majoring in AI in Xi'an Jiaotong University. 
 
 I love ML, CV and Games
 <br/>
