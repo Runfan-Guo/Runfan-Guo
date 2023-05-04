@@ -1,4 +1,4 @@
-## 你好!Ni Hao!  👋, I'm Rui Cai(Luis)!  
+## 你好!Ni Hao!  👋, I'm Runfan Guo(Jimmy)!  
   
 
 <a href="https://github.com/luisrui" target="_blank">
@@ -12,17 +12,17 @@
 
 
 ### Hello There!  
-I’m a junior student Majored in AI in Xi'an Jiaotong University. 
+I’m a undergraduate student Majoring in AI in Xi'an Jiaotong University. 
 
-I love ML, Vision and Games
+I love ML, CV and Games
+I also love Paralell Computing and HPC
 
 I am interested in
 + Object detection
 + Face Recognition
-+ Knowledge Graph
-+ Full-stack development  
-  
-
++ Knowledge Graph 
++ High-performance Computing  
++ Full-stack development 
 <br/>  
 
 
