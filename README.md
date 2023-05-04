@@ -15,6 +15,7 @@
 I’m a undergraduate student Majoring in AI in Xi'an Jiaotong University. 
 
 I love ML, CV and Games
+<br/>
 I also love Paralell Computing and HPC
 
 I am interested in
